@@ -100,7 +100,7 @@
 
 # BUTTON VERSION [NEW]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashabu/QUEEN ALEXA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Hashzi-X)
 
 
 
