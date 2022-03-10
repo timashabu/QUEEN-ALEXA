@@ -3,9 +3,9 @@
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "queen alexa"],
-    "repository": "https://chat.whatsapp.com/ESgq5THSobg4ZGD4pLAGf4",
-    "website":   "https://chat.whatsapp.com/ESgq5THSobg4ZGD4pLAGf4",
-    "success_url": "https://chat.whatsapp.com/ESgq5THSobg4ZGD4pLAGf4",
+    "repository": "https://github.com/timashabu/QUEEN-ALEXA",
+    "website":   "https://github.com/timashabu/QUEEN-ALEXA",
+    "success_url": "https://github.com/timashabu/QUEEN-ALEXA",
     "stack": "container",
     "env": {
         "ALEXA_SESSION": {
