@@ -78,11 +78,11 @@
 
   </a>
   <a href="https://github.com/timashabu">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Alexa%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=M.R TIMA%20X&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/94773585511">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Chamod%20X%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Timasha%20X%20-purple&style=plastic">
 
   </a>
 </p>
@@ -100,7 +100,7 @@
 
 # BUTTON VERSION [NEW]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashabu/ChamodKeshan)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Hashzi-x)
 
 
 
